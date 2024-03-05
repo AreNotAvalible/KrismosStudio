@@ -1,0 +1,31 @@
+### Site settings
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+### Build settings
+
+# @AreNotAvailable 2024-03-06
+# <-- Custom theme will be used -->
+#theme: minima
+# <-- ./ -->
+
+# @AreNotAvailable 2024-03-06
+# <-- Plugins are disabled -->
+#plugins:
+#  - jekyll-feed
+# <-- ./ -->
+
+### Exclude from processing.
+
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
